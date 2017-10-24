@@ -7,9 +7,13 @@ Don’t order the cards nor move them from their dealt position of face down;
 Each player turns up the top card at the same time and the player with the higher card takes both cards;
 The winner puts them, face down, on the bottom of his stack;
 Continue playing until one player runs out cards in his pile then the other players;
-
+Take out jacks
+Ace = 14, king = 13, queen = 12, jack = 11, other cards are their numeric value
 Rules
 
+while player 1 or player 2 cards > 0
+Player 1 and Player 2 flip the card at the top of the deck
+Whosever card is the greatest gets all the cards and places them at the bottom of their deck
 If the cards flipped are equal in value then each player flips another card face down, as well as another card face
 Up;
  Whoever has the higher card that player takes all of the cars and put them on the bottom of their pile;
