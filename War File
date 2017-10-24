@@ -16,4 +16,15 @@ Up;
 If the new cards are equal repeat the previous maneuver;
 Repeat until one player flips over a greater card than the other player;
 
+First of all you only wrote down the rules on how to play the card game and didn't even put in 
+of your own psuedocode down. I'm going to show how you would start your code if you were to do
+it.
 
+while (player has > 0 cards) {
+ both players put down one card from their hand
+  if player one's card is larger than player two's card
+   player one takes his card and other card and put it at the bottom of player one's deck
+}
+
+TO DO LIST:
+The rest of the code.
